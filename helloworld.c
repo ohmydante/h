@@ -9,5 +9,6 @@ int main(void)
 	{
 	printf("%s",b);
 	}
+    printf("end");
 	return 0;
 }
